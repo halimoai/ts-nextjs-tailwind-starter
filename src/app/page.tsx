@@ -33,12 +33,12 @@ export default function HomePage() {
           <Logo className='w-16' />
           <h1 className='mt-4'>This is just the beginning.</h1>
           <p className='mt-2 text-sm text-gray-800'>
-            A starter for Next.js, Tailwind CSS, and TypeScript with Absolute
-            Import, Seo, Link component, pre-configured with Husky{' '}
+            Thank you Ross, you're the best!
+            Ready for round 2.{' '}
           </p>
           <p className='mt-2 text-sm text-gray-700'>
             <ArrowLink href='https://github.com/theodorusclarence/ts-nextjs-tailwind-starter'>
-              See the repository
+              Halim was here.
             </ArrowLink>
           </p>
 
