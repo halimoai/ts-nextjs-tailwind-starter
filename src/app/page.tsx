@@ -37,7 +37,7 @@ export default function HomePage() {
             Ready for round 2.{' '}
           </p>
           <p className='mt-2 text-sm text-gray-700'>
-            <ArrowLink href='https://github.com/theodorusclarence/ts-nextjs-tailwind-starter'>
+            <ArrowLink href='https://twitter.com/halimalrasihi'>
               Halim was here.
             </ArrowLink>
           </p>
